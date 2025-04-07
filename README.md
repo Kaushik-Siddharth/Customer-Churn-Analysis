@@ -27,7 +27,7 @@ Analyze telecom customer data to uncover churn trends and build a dashboard with
 -  Tableau dashboard file
 
 ## 📸 Dashboard Preview
-https://public.tableau.com/views/Book1_17440047158090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+[View on Tableau Public]https://public.tableau.com/views/Book1_17440047158090/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## 📌 Conclusion
 This project demonstrates end-to-end data analysis skills and provides strategic insights for churn reduction.
